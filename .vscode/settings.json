@@ -1,6 +1,6 @@
 {
     "workbench.colorTheme": "Tokyo Night",
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "vscode-icons",
     "markdown.preview.fontSize": 14,
     "javascript.preferences.quoteStyle": "single",
     "typescript.preferences.quoteStyle": "single",
